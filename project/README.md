@@ -5,7 +5,7 @@
 ---
 
 ## 📦 项目结构
-
+```
 my_analysis/
 ├── my_analysis.Rproj           # RStudio 项目文件
 ├── app.R                       # Shiny 可视化主程序
@@ -18,7 +18,7 @@ my_analysis/
 ├── results/                    # 输出目录（表格 + 图片）
 ├── Makefile                    # 一键运行所有流程
 └── README.md                   # 项目说明文件
-
+```
 ---
 
 
